@@ -16,9 +16,9 @@ function preload(){
   track = loadImage("https://siddharthsuman.github.io/C41/images/track.jpg");
   car1_img = loadImage("https://siddharthsuman.github.io/C41/images/car1.png");
   car2_img = loadImage("https://siddharthsuman.github.io/C41/images/car2.png");
-  car3_img = loadImage("https://siddharthsuman.github.io/C41/car3.png");
-  car4_img = loadImage("https://siddharthsuman.github.io/C41/car4.png");
-  ground = loadImage("https://siddharthsuman.github.io/C41/ground.png");
+  car3_img = loadImage("https://siddharthsuman.github.io/C41/images/car3.png");
+  car4_img = loadImage("https://siddharthsuman.github.io/C41/images/car4.png");
+  ground = loadImage("https://siddharthsuman.github.io/C41/images/ground.png");
 }
 
 function setup(){
