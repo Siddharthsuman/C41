@@ -13,12 +13,12 @@ var cars, car1, car2, car3, car4;
 var track, car1_img, car2_img, car3_img, car4_img;
 
 function preload(){
-  track = loadImage("../images/track.jpg");
-  car1_img = loadImage("../images/car1.png");
-  car2_img = loadImage("../images/car2.png");
-  car3_img = loadImage("car3.png");
-  car4_img = loadImage("car4.png");
-  ground = loadImage("ground.png");
+  track = loadImage("https://siddharthsuman.github.io/C41/images/track.jpg");
+  car1_img = loadImage("https://siddharthsuman.github.io/C41/images/car1.png");
+  car2_img = loadImage("https://siddharthsuman.github.io/C41/images/car2.png");
+  car3_img = loadImage("https://siddharthsuman.github.io/C41/car3.png");
+  car4_img = loadImage("https://siddharthsuman.github.io/C41/car4.png");
+  ground = loadImage("https://siddharthsuman.github.io/C41/ground.png");
 }
 
 function setup(){
